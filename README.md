@@ -2,7 +2,7 @@
 
 ## Description of the Dataset
 
-### Dataset 2: Web Server Access Logs (Kaggle)
+### Dataset: Web Server Access Logs (Kaggle)
 - **Source:** Kaggle ([Web Server Access Logs](https://www.kaggle.com/datasets/eliasdabbas/web-server-access-logs))
 - **Size:** 1.27 GB
 - **Number of records:** 10 million
